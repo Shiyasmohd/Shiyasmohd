@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/shiyasmohd/)](https://www.instagram.com/shiyasmohd/) <img alt="vistors" src="https://visitor-badge.glitch.me/badge?page_id=shiyasmohd.shiyasmohd"/>
 
 - 🔭 I’m currently *Open to Work*
-- 🌱 I’m currently learning *Back-End DEvelopment*
+- 🌱 I’m currently learning *Back End DEvelopment*
 - 📫 How to reach me: *shiyasjaseena124@gmail.com*
 - ⚡ Fun fact: *Don't ask me to fix your computer*
 
