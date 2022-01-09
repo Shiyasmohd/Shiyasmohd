@@ -1,6 +1,6 @@
 
 # Hey, I'm [Shiyas](https://hashirpm.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### A Front End Web Developer
+### Front End Web Developer
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiyas-mohammed-75382a215/)](https://www.linkedin.com/in/shiyas-mohammed-75382a215/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/shiyasmohd/)](https://www.instagram.com/shiyasmohd/) <img alt="vistors" src="https://visitor-badge.glitch.me/badge?page_id=shiyasmohd.shiyasmohd"/>
 
