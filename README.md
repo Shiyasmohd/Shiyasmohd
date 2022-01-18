@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently *Open to Work*
 - 🌱 I’m currently learning *Back-End Development*
-- 📫 How to reach me: *shiyasjaseena124@gmail.com*
+- 📫 How to reach me: *shiyasmohd.official@gmail.com*
 - ⚡ Fun fact: *Don't ask me to fix your computer*
 
 
