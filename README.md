@@ -2,7 +2,7 @@
 # Hey, I'm Shiyas
 ### Web3 Dev
 
-- 💻 Exploring Web3
+- 💻 Building in Web3
 - 📫 How to reach me: *shiyasmohd.official@gmail.com*
 
 
