@@ -33,8 +33,6 @@
    <img width="11" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="vscode" width="40" height="40"/>
    <img width="11" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg" alt="vscode" width="40" height="40"/>
-   <img width="11" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="vscode" width="40" height="40"/>
    <img width="11" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="vscode" width="40" height="40"/>
