@@ -8,7 +8,7 @@
 
 
 *🔨 Languages and Tools*  
-
+<div align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="reactjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="reactjs" width="40" height="40"/>
@@ -31,7 +31,7 @@
 <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/solana-sol-6888828-5645452.png" alt="vscode" width="40" height="40"/>
 <img src="https://ipfs.filebase.io/ipfs/QmVu9A1Xw68Uq25C1SXMGWhHBraDMG93GmFJ2KcW9GuYz6" alt="vscode" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="vscode" width="40" height="40"/>
-
+</div>
 
 
 <!--
