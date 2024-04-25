@@ -41,8 +41,6 @@
    <img width="11" />
 <img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-1-283135.png" alt="vscode" width="40" height="40"/>
    <img width="11" />
-<img src="https://cdn.svgporn.com/logos/hardhat-icon.svg" alt="vscode" width="40" height="40"/>
-   <img width="11" />
 <img src="https://ipfs.filebase.io/ipfs/Qmcb8dRUoibn2nq8KAhvacSbxwgd8yy7rTtSwXCUnDBNzm" alt="vscode" width="40" height="40"/>
    <img width="11" />
 <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/solana-sol-6888828-5645452.png" alt="vscode" width="40" height="40"/>
